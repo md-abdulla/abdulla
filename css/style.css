@@ -104,6 +104,7 @@ header h1 {
     font-weight: bold;
     font-size: 4em;
     letter-spacing: 4px;
+     text-shadow: 0 0 50px;
 }
 
 header h5 {
