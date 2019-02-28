@@ -31,7 +31,7 @@ img {
 #pic {
     width: 100%;
     -webkit-filter: grayscale(100%) contrast(100%);
-    filter: grayscale(100%) contrast(200%) brightness(40%);
+    filter: grayscale(25%) contrast(60%) brightness(60%);
 }
 
 .folio img {
@@ -104,7 +104,7 @@ header h1 {
     font-weight: bold;
     font-size: 4em;
     letter-spacing: 4px;
-     text-shadow: 0 0 50px;
+    text-shadow: 0 0 50px;
 }
 
 header h5 {
