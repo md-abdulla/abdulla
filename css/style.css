@@ -35,7 +35,7 @@ img {
 }
 
 .folio img {
-    filter: grayscale(100%);
+    filter: grayscale(60%);
 }
 
 aside {
@@ -52,7 +52,7 @@ aside {
 }
 
 aside img {
-    filter: grayscale(100%) contrast(50%) brightness(100%);
+    filter: grayscale(25%) contrast(50%) brightness(100%);
     margin-bottom: -3px;
 }
 
