@@ -33,6 +33,8 @@ img {
     -webkit-filter: grayscale(100%) contrast(100%);
     filter: grayscale(25%) contrast(60%) brightness(60%);
     border-radius: 40px 0 40px;
+    border: 6px  #222222;
+    border-style: dashed;
 }
 
 .folio img {
